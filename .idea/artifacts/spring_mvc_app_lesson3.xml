@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-mvc-app-lesson3">
+    <output-path>$PROJECT_DIR$/target/spring-mvc-app-lesson3</output-path>
+    <root id="archive" name="spring-mvc-app-lesson3.war" />
+  </artifact>
+</component>
